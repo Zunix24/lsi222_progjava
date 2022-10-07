@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a25489c5-c885-43e8-a9cb-2aa581085b87" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercice1/Main.java" afterDir="false" />
+    <list default="true" id="a25489c5-c885-43e8-a9cb-2aa581085b87" name="Changes" comment="Added package.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665135303796</updated>
-      <workItem from="1665135305437" duration="3051000" />
+      <workItem from="1665135305437" duration="3924000" />
     </task>
+    <task id="LOCAL-00001" summary="Added package.">
+      <created>1665138582698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665138582698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -49,10 +56,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added package." />
   </component>
 </project>
